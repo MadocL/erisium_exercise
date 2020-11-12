@@ -1,0 +1,15 @@
+INSERT INTO BREED VALUES (1, 'Sphynx' );
+INSERT INTO BREED VALUES (2, 'Chartreux' );
+INSERT INTO BREED VALUES (3, 'Siamois' );
+INSERT INTO BREED VALUES (4, 'Persan' );
+
+INSERT INTO OWNER VALUES (1, 'Jacques');
+INSERT INTO OWNER VALUES (2, 'Gontran');
+INSERT INTO OWNER VALUES (3, 'René' );
+INSERT INTO OWNER VALUES (4, 'Paul' );
+
+INSERT INTO CAT VALUES (1, 'Roux', 'Tigrou', 1, 1);
+INSERT INTO CAT VALUES (2, 'Blanc', 'Minou', 1, 1);
+INSERT INTO CAT VALUES (3, null, 'Nala', 3, 1);
+INSERT INTO CAT VALUES (4, 'Noir', 'Grosminet', 1, 2);
+INSERT INTO CAT VALUES (5, 'Crème', 'Kitty', 2, 3);
